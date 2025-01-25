@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2lab</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="firstTextview">Первый TextView</string>
+    <string name="secondTextview">Еще один TextView</string>
+    <string name="thirdTextview">Предпоследний TextView</string>
+    <string name="lastTextview">Последний TextView, теперь точно!</string>
+    <string name="okButton">Кнопка ОК</string>
+    <string name="nextButton">Кнопка далее</string>
+</resources>
